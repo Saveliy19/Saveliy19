@@ -42,7 +42,7 @@ I primarily focus on Python, though I have also worked with **C#**, **C++**, **S
 
 ## 📫 How to Reach Me
 
-- ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [ivanov.ivan@gmail.com](mailto:saveliy200319@gmail.com)
+- ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [saveliy200319@gmail.com](mailto:saveliy200319@gmail.com)
 
 ---
 
